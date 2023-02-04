@@ -16,6 +16,7 @@
 		C28ABE81298E09DF0009A9E6 /* MyAPITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28ABE80298E09DF0009A9E6 /* MyAPITests.swift */; };
 		C28ABE8B298E09DF0009A9E6 /* MyAPIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28ABE8A298E09DF0009A9E6 /* MyAPIUITests.swift */; };
 		C28ABE8D298E09DF0009A9E6 /* MyAPIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28ABE8C298E09DF0009A9E6 /* MyAPIUITestsLaunchTests.swift */; };
+		C28ABE9C298E0C7D0009A9E6 /* API_Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28ABE9B298E0C7D0009A9E6 /* API_Helper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C28ABE86298E09DF0009A9E6 /* MyAPIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyAPIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C28ABE8A298E09DF0009A9E6 /* MyAPIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAPIUITests.swift; sourceTree = "<group>"; };
 		C28ABE8C298E09DF0009A9E6 /* MyAPIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAPIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C28ABE9B298E0C7D0009A9E6 /* API_Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API_Helper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				C28ABE69298E09DE0009A9E6 /* AppDelegate.swift */,
 				C28ABE6B298E09DE0009A9E6 /* SceneDelegate.swift */,
 				C28ABE6D298E09DE0009A9E6 /* ViewController.swift */,
+				C28ABE9B298E0C7D0009A9E6 /* API_Helper.swift */,
 				C28ABE6F298E09DE0009A9E6 /* Main.storyboard */,
 				C28ABE72298E09DF0009A9E6 /* Assets.xcassets */,
 				C28ABE74298E09DF0009A9E6 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C28ABE9C298E0C7D0009A9E6 /* API_Helper.swift in Sources */,
 				C28ABE6E298E09DE0009A9E6 /* ViewController.swift in Sources */,
 				C28ABE6A298E09DE0009A9E6 /* AppDelegate.swift in Sources */,
 				C28ABE6C298E09DE0009A9E6 /* SceneDelegate.swift in Sources */,
